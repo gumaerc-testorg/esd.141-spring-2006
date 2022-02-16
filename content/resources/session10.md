@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains information on simulation debrief, additional
   considerations in job search, and best job interview questions.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/esd-141-technology-policy-negotiations-spring-2006/1f204eb631bf18af5689d7725490a3b1_session10.pdf
+file: /media/courses/esd-141-technology-policy-negotiations-spring-2006/1f204eb631bf18af5689d7725490a3b1_session10.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: session10.pdf
 uid: 1f204eb6-31bf-18af-5689-d7725490a3b1

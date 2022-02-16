@@ -3,8 +3,13 @@ content_type: resource
 description: This resource includes information on layers in a system for workplace
   dispute resolution, unconstructive and constructive responses to conflict, dispute
   resolution system, and the head scarf exercise.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/esd-141-technology-policy-negotiations-spring-2006/5ea8b54bc7ad939893311ddc57826171_session3.pdf
+file: /media/courses/esd-141-technology-policy-negotiations-spring-2006/5ea8b54bc7ad939893311ddc57826171_session3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: session3.pdf
 uid: 5ea8b54b-c7ad-9398-9331-1ddc57826171
