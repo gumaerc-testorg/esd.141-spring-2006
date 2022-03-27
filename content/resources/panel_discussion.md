@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: e45e421c-d50a-5389-05d6-d3e8087e6ea1
 resourcetype: Document
 title: panel_discussion.pdf
 uid: e595e477-f140-b8ca-9295-c1d88609a9be
