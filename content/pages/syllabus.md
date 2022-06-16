@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The Syllabus section contains course description, textbooks, grading
+  policy and course calendar.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

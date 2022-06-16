@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The Assignments section contains information about post-negotiation analysis
+  paper for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

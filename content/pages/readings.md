@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: The Readings section contains the readings for the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -247,7 +248,7 @@ No readings are assigned; come prepared to present your case study findings.
 Practitioner Panel
 {{< tdclose >}}
 {{< tdopen >}}
-No readings are assigned; come prepared to present your case study findings. An outline of the panel discussion is provided in the [lecture notes]({{< baseurl >}}/pages/lecture-notes) section.
+No readings are assigned; come prepared to present your case study findings. An outline of the panel discussion is provided in the {{% resource_link b2e2f744-0fb1-0864-744e-80040977cb98 "lecture notes" %}} section.
 {{< tdclose >}}
 
 {{< trclose >}}
