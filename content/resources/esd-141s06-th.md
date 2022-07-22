@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: Diagram of five layers.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: esd-141s06-th.jpg
 uid: 17563464-2485-653b-82d1-6a0fdd1525cd
 ---
 New image Upload
-

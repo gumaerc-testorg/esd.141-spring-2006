@@ -6,6 +6,7 @@ file: /courses/esd-141-technology-policy-negotiations-spring-2006/1f204eb631bf18
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: session10.pdf
 uid: 1f204eb6-31bf-18af-5689-d7725490a3b1
 ---
 This resource contains information on simulation debrief, additional considerations in job search, and best job interview questions.
-

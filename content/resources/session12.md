@@ -5,6 +5,7 @@ file: /courses/esd-141-technology-policy-negotiations-spring-2006/7a7e042b434645
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: session12.pdf
 uid: 7a7e042b-4346-45e9-d39d-8f7fa1607a24
 ---
 This resource contains information on panel members.
-
