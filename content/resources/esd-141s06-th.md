@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/esd-141-technology-policy-negotiations-spring-2006/175634642485653b82d16a0fdd1525cd_esd-141s06-th.jpg
+file_size: 13476
 file_type: image/jpeg
 image_metadata:
   caption: Layers in a system for workplace dispute resolution, as covered in [Lecture
