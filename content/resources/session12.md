@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information on panel members.
 file: /courses/esd-141-technology-policy-negotiations-spring-2006/7a7e042b434645e9d39d8f7fa1607a24_session12.pdf
+file_size: 55317
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
