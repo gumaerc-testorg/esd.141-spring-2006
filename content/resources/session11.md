@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on cross-cultural negotiations, alternative
   assumptions, and rules from salacuse.
 file: /courses/esd-141-technology-policy-negotiations-spring-2006/e62c5b36f3f4da7f248f9faed91edb83_session11.pdf
+file_size: 98373
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

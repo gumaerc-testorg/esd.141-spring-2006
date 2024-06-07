@@ -4,6 +4,7 @@ description: This resource contains course objectives, reciprocal commitments, t
   bargaining, comparing positional and interest-based bargaining, and simulation ground
   rules.
 file: /courses/esd-141-technology-policy-negotiations-spring-2006/32332fcd287da39c6dde69d6ed98610d_session1.pdf
+file_size: 161599
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
