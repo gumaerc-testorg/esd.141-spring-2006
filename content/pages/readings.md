@@ -204,7 +204,7 @@ Kochan, Thomas A. "The Case of the Part-Time Partner."
   
 Loveman, G. _The Case of the Part Time Partner_. Boston, MA: Harvard Business Review, 1990.  
   
-Kochan, Thomas A. "Part Time Partner Redux: So We Solved the Problem, Didn't We?" MIT Sloan Working Paper No. 4471-02; MIT Workplace Center Working Paper No. 101 (September 2002). Available at [SSRN](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=511242).
+Kochan, Thomas A. "Part Time Partner Redux: So We Solved the Problem, Didn't We?" MIT Sloan Working Paper No. 4471-02; MIT Workplace Center Working Paper No. 101 (September 2002). Available at {{% resource_link "bf6fbefc-db5e-4a45-b27f-ffef789f9c0c" "SSRN" %}}.
 {{< tdclose >}}
 
 {{< trclose >}}
